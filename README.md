@@ -4,7 +4,7 @@ Variant of my first programming project rewritten in Python.
 The program is relatively simple. It attempts to act as a form of access terminal to the website of the SCP mythos. Utilizing the program you can access SCP files directly without needing to navigate the site. An attempt at making it feel more in-universe was made and as a result flavorful text is encouraged when making changes or additions to the program.
 
 # How to Run
-The program only has a single .py file, Terminal.py.
+Terminal.py is the main file. Since at the moment it's just a terminal application, you just run it. Additional files may be added by contributors, instructions will be updated if additional dependencies are used.
 
 # How to Contribute
 Make a fork of the main branch and make any committments in a seperate file if including a new function or class. 
